@@ -22,6 +22,10 @@ export default function Home() {
       <footer className={styles.footer}>
         <p>Feito em Next.js</p>
       </footer>
+
+
     </div>
   )
 }
+
+
